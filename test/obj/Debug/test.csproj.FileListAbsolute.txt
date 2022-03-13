@@ -1,0 +1,9 @@
+E:\Pardus Wine Kurulum\test\test\bin\Debug\test.exe
+E:\Pardus Wine Kurulum\test\test\bin\Debug\test.pdb
+E:\Pardus Wine Kurulum\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+E:\Pardus Wine Kurulum\test\test\obj\Debug\test.Form1.resources
+E:\Pardus Wine Kurulum\test\test\obj\Debug\test.Properties.Resources.resources
+E:\Pardus Wine Kurulum\test\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Pardus Wine Kurulum\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Pardus Wine Kurulum\test\test\obj\Debug\test.exe
+E:\Pardus Wine Kurulum\test\test\obj\Debug\test.pdb
