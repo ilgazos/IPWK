@@ -72,10 +72,10 @@ elif [[ $secim == 3 ]]; then
 printf "
 『!』Test Programı Açılıyor...
 "
-sleep 1
+sleep 2
+xdg-open test/bin/Debug/test.exe
 printf "
-『!』Test Programı Başlatılamadı
-『!』Lütfen Manüel Olarak Çalıştırın 
+『!』Dosya Konumu
 『!』test > bin > Debug > test.exe
 
 "
